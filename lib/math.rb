@@ -19,7 +19,7 @@ return multi
 end
 
 def modulo(num1, num2)
-modul = num1 / num2
+modul = num1 % num2
 return modul
 end
 
