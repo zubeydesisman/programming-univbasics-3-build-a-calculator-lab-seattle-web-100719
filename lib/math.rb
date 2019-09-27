@@ -24,5 +24,5 @@ return modul
 end
 
 def square_root(num)
-
+square = num **2
 end
